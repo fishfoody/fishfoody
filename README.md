@@ -13,7 +13,9 @@ src="https://github.com/fishfoody/fishfoody/blob/382501c736e95f28f6512c7d4472c51
 
 <p align="center"> <kbd> $\color{#ffd2e9}{\textsf{　　Fishing is my therapy ! !　　}}$<br></kbd></p>
 <p  align="center">$\color{#ffb3da}{\textsf{⏔⏔⏔⏔⏔⏔⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔⏔⏔⏔⏔⏔⏔}}$</p>
-
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Lobster+Two&weight=700&size=24&duration=1000&pause=3500&color=ffd2e9&center=true&vCenter=true&width=900&lines=%22Maybe+cupid+wont+miss...%22;%22Maybe..%3F%3F%22;%22No..%22;%22Maybe....%3F%22;%22I'm+sorry..%22;%22Maybe....%22;%22I+got+a+date...%22;%22Maybe......%22;%22Hows+your+dad..%3F%3F%22" />
+</p>
 
 <p align="center">
 <img width="20%" height="20%" alt="Finn" src="https://github.com/fishfoody/fishfoody/blob/382501c736e95f28f6512c7d4472c518a76d1601/tumblr_f609dde3003f36dae36f66796bdeb61b_f1caba52_500.webp" />
